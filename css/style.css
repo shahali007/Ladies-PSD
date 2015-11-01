@@ -234,11 +234,15 @@ background:url(../images/bg.png);
 	overflow:hidden;
 	margin-bottom: 25px;
 }
-
+/* 
 .recent-work_area  h3,
 .more-about  h3,
 .recent-blog  h3,
 .footer-top_area .item h3  {
+	margin-bottom: 15px;
+	color:#2A2B26;
+}  */
+h3  {
 	margin-bottom: 15px;
 	color:#2A2B26;
 }
